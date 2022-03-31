@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animeku</string>
+    <string name="judul_anime">Judul Anime</string>
+    <string name="detail">Detail</string>
+</resources>
